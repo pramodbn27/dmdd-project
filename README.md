@@ -1,3 +1,2 @@
-# dmdd-project
+# DMDD Project - Team 4
 # PODCAST-STREAMING APPLICATION DATABASE
-## Team - 4
